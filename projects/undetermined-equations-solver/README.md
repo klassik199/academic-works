@@ -1,0 +1,1 @@
+This project demonstrates solving underdetermined systems of equations using regularization and denoising techniques in Microsoft Excel. It includes a built-in VBA macro that allows users to input a matrix of arbitrary size, which is then processed and regularized automatically. The solution workflow is fully contained within Excel, making it accessible and easy to use.
