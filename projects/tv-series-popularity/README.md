@@ -1,3 +1,5 @@
+[Shiny app live here](https://klassik02.shinyapps.io/tv-series-popularity/)
+
 # Krótko o projekcie
 
 Stworzony przez nas dashboard umożliwia wgląd do statystyk wielu popularnych seriali. Główną ideą naszego projektu było umożliwienie użytkownikowi przeprowadzenia własnej analizy najpopularniejszych seriali, tego co uczyniło je faktycznie najczęściej oglądanymi oraz czym się one charakteryzują. Mnogość nowożytnych seriali może się wydawać przytłaczająca... nasz dashboard umożliwia na prostą, przejrzystą i pokazową analizę tego zagadnienia!
