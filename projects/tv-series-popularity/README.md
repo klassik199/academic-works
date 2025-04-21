@@ -1,4 +1,4 @@
-[##Shiny app live here](https://klassik02.shinyapps.io/tv-series-popularity/)
+##[Shiny app live here](https://klassik02.shinyapps.io/tv-series-popularity/)
 
 # Krótko o projekcie
 
